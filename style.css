@@ -140,6 +140,15 @@ label{
     background-color: red;
 }
 
+.media{
+    background-color: #FAF408;
+    width: 50%;
+}
+
+.forte{
+    background-color: #00FF85;
+    width: 100%;
+}
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha {
         flex-direction: row;
