@@ -107,6 +107,10 @@ justify-content:  center;
     margin: 0;
 }
 
+.parametro-senha-textos{
+    display: flex;
+    justify-content: space-between;
+}
 
 label{
     font-size: 20px;
